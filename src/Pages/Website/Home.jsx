@@ -6,7 +6,7 @@ import Services from "../../Pages/Website/Services";
 import Benifits from "./Benifits";
 import Nearest from "../../Components/Website/Nearest";
 import Blogs from "./Blogs";
-import Review from "../../Components/Website/review";
+import Review from "../../Components/Website/Review";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
